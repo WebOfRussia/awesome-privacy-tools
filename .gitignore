@@ -1,0 +1,17 @@
+# Editor and OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Secrets and generated runtime files
+conf/
+data/
+log/
+*.passwd
+auth.txt
+*.bak
+*.tmp
